@@ -1,0 +1,209 @@
+20180457	---	2	A Bíblia, os metais e a metalurgia	---	2018	0	0
+20183502	---	2	A cor na imagem urbana portuguesa	---	2018	0	0
+20183245	---	2	A history of economic theory and method	---	2018	0	0
+20183089	---	2	A reabilitação urbana no Município de São Pedro do Sul : Requalificação do centro histórico	---	2018	0	0
+20183090	---	2	A reabilitação urbana no Município de São Pedro do Sul : Requalificação do centro histórico	---	2018	0	0
+20180132	---	2	Adobe Premiere Pro CC	---	2018	0	1
+20183220	---	2	Análise crítica aos projetos de reabilitação de edifícios antigos pertencentes ao Centro Histó---	---	2018	0	0
+20183230	---	2	Artes e tradições de Viseu	---	2018	1	1
+20181570	---	2	As motivações do turista para a prática de turismo náutico na Região Centro de Portugal	---	2018	0	0
+20181572	---	2	As motivações do turista para a prática de turismo náutico na Região Centro de Portugal	---	2018	0	0
+20181524	---	2	Avaliação da conformidade em organismos de inspeção automóvel	---	2018	0	0
+20181525	---	2	Avaliação da conformidade em organismos de inspeção automóvel	---	2018	0	0
+20183216	---	2	Avaliação da qualidade da água da captação e do sistema de abastecimento de Fagilde, Viseu	---	2018	0	0
+20182993	---	2	Business one:one	---	2018	0	0
+20183503	---	2	CMM, 20 anos - 20 obras	---	2018	0	0
+20183304	---	2	Caminhos do conhecimento	---	2018	0	0
+20181759	---	2	Civilização grega	---	2018	0	0
+20183214	---	2	Commercial real estate – business development in the office department	---	2018	0	0
+20183247	---	2	Econometrics	---	2018	0	0
+20182999	---	2	Ecovalorização de resíduos florestais (Casca e ramos de Eucalyptus globulus)	---	2018	0	0
+20183000	---	2	Ecovalorização de resíduos florestais (Casca e ramos de Eucalyptus globulus)	---	2018	0	0
+20183221	---	2	Enterprise Gaming: Formação e motivação empresarial através da gamificação	---	2018	0	0
+20181758	---	2	Entre o céu e o inferno	---	2018	0	0
+20183204	---	2	Estudo científico base para a tipificação de galerias repícolas no território da Comunidade Int---	---	2018	0	0
+20183222	---	2	Estudo comparativo das metodologias ágeis e PMBOK	---	2018	0	0
+20183091	---	2	Estudo comparativo entre arquiteturas monolíticas e micro serviços	---	2018	0	0
+20183092	---	2	Estudo comparativo entre arquiteturas monolíticas e micro serviços	---	2018	0	0
+20180786	---	2	Fundação Lapa do Lobo: lugar de educação para a participação, autonomia e cooperação à luz ---	---	2018	0	0
+20183251	---	2	Guia de boas práticas para prevenir ou minimizar os riscos decorrentes do amianto em trabalhos que ---	---	2018	0	0
+20183231	---	2	Guia urbanístico e arquitectónico de Lisboa	---	2018	0	0
+20183215	---	2	ICP - MS na determinação de metais e metalóides - Aplicações práticas	---	2018	0	0
+20182997	---	2	Impacto da realização de testes de software	---	2018	0	0
+20182998	---	2	Impacto da realização de testes de software	---	2018	0	0
+20183217	---	2	Integração e controlo do armazém numa Célula Flexível de Fabrico	---	2018	0	0
+20183423	---	2	Intelligent business : Coursebook	---	2018	0	0
+20183424	---	2	Intelligent business : Coursebook	---	2018	0	0
+20183429	---	2	Intelligent business: Style guide	---	2018	0	0
+20183250	---	2	Interactive LISREL	---	2018	0	0
+20183243	---	2	Introduction to the theory and practice of econometrics	---	2018	0	0
+20183246	---	2	Macroeconomia	---	2018	0	0
+20183594	---	2	Manual de gestão moderna	---	2018	0	0
+20183253	---	2	Metalurgia e metalomecânica	---	2018	0	0
+20182235	---	2	Modelo de custo híbrido para o desenvolvimento de software em ambientes ágeis	---	2018	0	0
+20182819	---	2	Modelo de custo híbrido para o desenvolvimento de software em ambientes ágeis	---	2018	0	0
+20181964	---	2	O Mediterrâneo em chamas	---	2018	0	0
+20181640	---	2	O turismo de aventura acessível: Análise da oferta na Região Centro de Portugal	---	2018	0	0
+20181641	---	2	O turismo de aventura acessível: Análise da oferta na Região Centro de Portugal	---	2018	0	0
+20183224	---	2	OPT-Optimized production technology: ensaio numa industria de componentes	---	2018	0	0
+20183233	---	2	Os Judeus na Região de Viseu	---	2018	0	0
+20183229	---	2	Os fenómenos de metamorfismo e granitização no distrito de Goa	---	2018	0	0
+20180134	---	2	Passaport	---	2018	0	0
+20181971	---	2	Pedro Álvares Cabral e o descobrimento do Brasil	---	2018	0	0
+20183249	---	2	Pequena história de uma escola de contabilidade	---	2018	0	0
+20183223	---	2	Persistência poliglota : Diferentes necessidades de armazenamento de dados	---	2018	0	0
+20183228	---	2	Petrologia das lavas dos Libombos	---	2018	0	0
+20181760	---	2	Por uma sociedade diferente	---	2018	0	0
+20182459	---	2	Portugal e o futuro	---	2018	0	0
+20183085	---	2	Produção, produtividade e competitividade em PMEs	---	2018	0	0
+20183086	---	2	Produção, produtividade e competitividade em PMEs	---	2018	0	0
+20182508	---	2	Retrato de Camilo Torres	---	2018	0	0
+20180128	---	2	Suão	---	2018	0	0
+20183225	---	2	TPM (Total Productive Maintenance) numa indústria de componentes	---	2018	0	0
+20181016	---	2	Tempos sem fim	---	2018	0	0
+20180181	---	2	Unicer, uma longa história: Vol. 1	---	2018	0	0
+20180182	---	2	Unicer, uma longa história: Vol. 2	---	2018	0	0
+20181961	---	2	Viajando na França	---	2018	0	0
+20183603	AMB	0	Environmental hydrology	Livraria José Alves	2018	0	0
+20183604	AMB	0	Getting to know ArcGIS	Livraria José Alves	2018	0	0
+20183601	AMB	0	Handbook of applied hydrology	Livraria José Alves	2018	0	0
+20183403	BIB	1	---	---	2018	0	0
+20183395	BIB	1	A ciência perante o desconhecido	---	2018	1	1
+20183433	BIB	1	A sétima cruz	---	2018	0	0
+20183420	BIB	1	A vida inteligente no universo	---	2018	0	0
+20183093	BIB	1	CDU - Clasificación Decimal Universal: 1	Livraria Ideal	2018	0	0
+20183094	BIB	1	CDU - Clasificación Decimal Universal:2	Livraria Ideal	2018	0	0
+20183095	BIB	1	CDU - Clasificación Decimal Universal:3	Livraria Ideal	2018	0	0
+20181851	BIB	1	Desenho técnico básico	Livraria José Alves	2018	0	0
+20183229	BIB	1	Entrevista com a História	---	2018	0	0
+20183397	BIB	1	Heidi	---	2018	0	0
+20183419	BIB	1	Holocausto	---	2018	0	0
+20183177	BIB	1	Marketing 4.0	Pretexto	2018	0	0
+20183178	BIB	1	Marketing 4.0	Pretexto	2018	0	0
+20182033	BIB	1	Mecânica dos materiais	Livraria José Alves	2018	0	0
+20183409	BIB	1	Nostradamus, historiador e profeta	---	2018	0	0
+20183527	BIB	1	Notícia da cidade silvestre	---	2018	0	0
+20183396	BIB	1	O alquimista	---	2018	0	0
+20183416	BIB	1	O satélite espião	---	2018	0	0
+20183398	BIB	1	O socialismo em liberdade	---	2018	0	0
+20183417	BIB	1	O universo inteligente	---	2018	0	0
+20183436	BIB	1	Olhar ver sentir	---	2018	0	0
+20183399	BIB	1	Os americanos e Portuga	---	2018	0	0
+20183528	BIB	1	Os descobridores	---	2018	0	0
+20183434	BIB	1	Os dragões do Éden	---	2018	0	0
+20183438	BIB	1	Portugal na rota das especiarias	---	2018	0	0
+20182000	BIB	1	Princípios de economia	Livraria José Alves	2018	0	0
+20183400	BIB	1	Realidades e problemas da vida	---	2018	0	0
+20183411	BIB	1	Roteiro : viagem às "Terras do Demo"	---	2018	0	0
+20183435	BIB	1	um pouco mais de azul : a evolução cósmica	---	2018	0	0
+20183121	CIV	0	Applied building physics	MARKA	2018	0	0
+20183120	CIV	0	Construção sustentável, Conceito e prática, Caleidoscópio	MARKA	2018	0	0
+20183113	CIV	0	Design of joints in steel and composite structures	MARKA	2018	0	0
+20183111	CIV	0	Discrete element method to model 3D continuous materials	MARKA	2018	0	0
+20183123	CIV	0	Fundamentals of discrete element methods for rock engineering	MARKA	2018	0	0
+20183013	CIV	0	Gestão da manutenção de equipamentos, instalações e edifícios	lidel	2018	0	0
+20183122	CIV	0	Hygrothermal behavior, building pathology and durability : Volume 1	Livraria José Alves, Ltd.	2018	0	0
+20183103	CIV	0	Indoor climate quality assessment	Livraria José Alves, Ltd.	2018	0	0
+20183101	CIV	0	Manual de exploração de segurança contra incêndio em edifícios	Livraria José Alves, Ltd.	2018	0	0
+20183099	CIV	0	Manual de instalação de sistemas solares térmicos	Livraria José Alves, Ltd.	2018	0	0
+20183110	CIV	0	OpenGL 4 shading language cookbook	MARKA	2018	0	0
+20183108	CIV	0	OpenGL SuperBible	MARKA	2018	0	0
+20183109	CIV	0	OpenGL programming guide	MARKA	2018	0	0
+20183098	CIV	0	Reabilitação acústica	Livraria José Alves, Ltd.	2018	0	0
+20183097	CIV	0	Resistência dos materiais	Livraria José Alves, Ltd.	2018	0	0
+20183114	CIV	0	Sistemas de construção : Volume XII	MARKA	2018	0	0
+20183096	CIV	0	Sistemas de construção : XV	Livraria José Alves, Ltd.	2018	0	0
+20182994	GES	0	Business builder : Intermediate teacher's resource series	Livraria José Alves	2018	0	0
+20182992	GES	0	Business one:one	Livraria José Alves	2018	0	0
+20183173	GES	0	Contabilidade financeira	Rei dos livros	2018	0	0
+20183174	GES	0	Contabilidade financeira	Rei dos livros	2018	0	0
+20183175	GES	0	Contabilidade financeira	Rei dos livros	2018	0	0
+20183176	GES	0	Contabilidade financeira	Rei dos livros	2018	0	0
+20183445	GES	0	Curso de direito comercial: Vol. I: Introdução; atos de comércio, comerciantes, empresas, sinais LEYA	LEYA	2018	0	0
+20183446	GES	0	Curso de direito comercial: Vol. I: Introdução; atos de comércio, comerciantes, empresas, sinais LEYA	LEYA	2018	0	0
+20183449	GES	0	Curso de direito comercial: Vol. II: Das sociedades	LEYA	2018	0	0
+20183448	GES	0	Curso de direito comercial: Vol. II: Das sociedades	LEYA	2018	0	0
+20183430	GES	0	Código da insolvência e da recuperação de empresas	LEYA	2018	0	0
+20183431	GES	0	Código da insolvência e da recuperação de empresas	LEYA	2018	0	0
+20183432	GES	0	Código da insolvência e da recuperação de empresas	LEYA	2018	0	0
+20183437	GES	0	Código das sociedades comerciais	LEYA	2018	0	0
+20183427	GES	0	Digital marketing	Marka	2018	0	0
+20183428	GES	0	Digital marketing	Marka	2018	0	0
+20183450	GES	0	Direito comercial: Direito da empresa	LEYA	2018	0	0
+20183425	GES	0	Direito das sociedades comerciais	LEYA	2018	0	0
+20183426	GES	0	Direito das sociedades comerciais	LEYA	2018	0	0
+20183440	GES	0	Direito empresarial	LEYA	2018	0	0
+20183202	GES	0	Do crime de abuso de informação privilegiada - Insider Trading	Vida Económica	2018	0	0
+20183203	GES	0	Do crime de abuso de informação privilegiada - Insider Trading	Vida Económica	2018	0	0
+20183165	GES	0	Guia da arbitragem tributária	Pretexto	2018	0	0
+20183166	GES	0	Guia da arbitragem tributária	Pretexto	2018	0	0
+20183422	GES	0	Intelligent business : Coursebook	Marka	2018	0	0
+20181911	GES	0	Logística e gestão da cadeia de abastecimento	Livraria José Alves	2018	0	0
+20181910	GES	0	Logística e gestão da cadeia de abastecimento	Livraria José Alves	2018	0	0
+20183441	GES	0	Minutas e formulários	LEYA	2018	0	0
+20183442	GES	0	Minutas e formulários	LEYA	2018	0	0
+20183413	GES	0	Retail management	MARKA	2018	0	0
+20182995	GES	0	The Turk who loved apples	Livraria José Alves	2018	0	0
+20182990	GES	0	The art of digital marketing	Livraria José Alves	2018	0	0
+20183112	GES	0	Total business 1 : Workbook	MARKA	2018	0	0
+20183167	GES	0	Títulos de crédito	Pretexto	2018	0	0
+20183168	GES	0	Títulos de crédito	Pretexto	2018	0	0
+20183439	GES	0	Variações sobre o capital social	LEYA	2018	0	0
+20183252	GES	0	Visual merchandising	Livraria José Alves	2018	0	0
+20183602	GES	0	Visual merchandising	Livraria José Alves	2018	0	0
+20180053	INF	0	ASP.NET core application development	MARKA	2018	0	0
+20180138	INF	0	Adobe Animate CC 2017	MARKA	2018	0	0
+20180131	INF	0	Adobe Premiere Pro CC	MARKA	2018	0	0
+20180125	INF	0	Adobe illustrator CC 2017	MARKA	2018	0	0
+20181452	INF	0	Advanced API security	MARKA	2018	0	0
+20181523	INF	0	Ajax : The complete reference	MARKA	2018	0	0
+20180055	INF	0	C# and .NET Core: Modern cross-platform development	MARKA	2018	0	0
+20180141	INF	0	Color design workbook	MARKA	2018	0	0
+20181647	INF	0	Designing brand identity	MARKA	2018	0	0
+20180847	INF	0	Developing quality technical information	MARKA	2018	0	0
+20181042	INF	0	Digital photography: complete course	MARKA	2018	0	0
+20180126	INF	0	Don’t make me think, revisited	MARKA	2018	0	0
+20181644	INF	0	Free : How today's smartest businesses profit by giving something for nothing	MARKA	2018	0	0
+20180350	INF	0	Graphic design : The new basics	MARKA	2018	0	0
+20180129	INF	0	Graphic design school	MARKA	2018	0	0
+20180127	INF	0	Graphic design thinking	MARKA	2018	0	0
+20182991	INF	0	HTML and CSS	MARKA	2018	0	0
+20180016	INF	0	JavaScript and jQuery	MARKA	2018	0	0
+20180190	INF	0	Learn Adobe Animate CC for interactive media	MARKA	2018	0	0
+20180180	INF	0	Learning Agile	MARKA	2018	0	0
+20180140	INF	0	Learning PHP, MySQL & JavaScript	MARKA	2018	0	0
+20181076	INF	0	Location sound bible : How to record professional dialog for film and TV	MARKA	2018	0	0
+20180136	INF	0	Mobile design pattern gallery	MARKA	2018	0	0
+20180056	INF	0	Next generation databases	Livraria José Alves	2018	0	0
+20180124	INF	0	Não me faça pensar - atualizado	Livraria José Alves	2018	0	0
+20181596	INF	0	PHP and MySQL for dynamic web sites	MARKA	2018	0	0
+20180049	INF	0	RESTful web APIs	MARKA	2018	0	0
+20181389	INF	0	Reality is broken	MARKA	2018	0	0
+20182988	INF	0	Responsive web design with HTML5 and CSS3	MARKA	2018	0	0
+20180164	INF	0	Save the cat!	MARKA	2018	0	0
+20180139	INF	0	Service design patterns	Livraria José Alves	2018	0	0
+20180057	INF	0	Seven databases in seven weeks	MARKA	2018	0	0
+20180135	INF	0	Shooting in Sh*tty light	MARKA	2018	0	0
+20180054	INF	0	Sistemas de retículas = Sistemas de grelhas	Livraria José Alves	2018	0	0
+20181386	INF	0	Sprint	MARKA	2018	0	0
+20182989	INF	0	The book of CSS3	MARKA	2018	0	0
+20182987	INF	0	The joy of bootstrap	MARKA	2018	0	0
+20183193	MEC	0	Apoio à decisão em manutenção na gestão de ativos físicos	Pretexto	2018	0	0
+20183194	MEC	0	Apoio à decisão em manutenção na gestão de ativos físicos	Pretexto	2018	0	0
+20183195	MEC	0	Desenho de construção metalomecânica	Pretexto	2018	0	0
+20183421	MEC	0	Eficiência energética e a ISO 50001	MARKA	2018	0	0
+20183418	MEC	0	Guia de aplicações de gestão de energia e eficiência energética	Publindústria	2018	0	0
+20183189	MEC	0	ISO 9001:2015	Pretexto	2018	0	0
+20183190	MEC	0	ISO 9001:2015	Pretexto	2018	0	0
+20183179	MEC	0	Manutenção lean	Pretexto	2018	0	0
+20183191	MEC	0	Mecânica aplicada	Pretexto	2018	0	0
+20183192	MEC	0	Mecânica aplicada	Pretexto	2018	0	0
+20183170	MEC	0	Mecânica dos fluidos	Pretexto	2018	0	0
+20183171	MEC	0	Mecânica dos fluidos	Pretexto	2018	0	0
+20183172	MEC	0	Mecânica dos fluidos	Pretexto	2018	0	0
+20183169	MEC	0	Mecânica dos fluidos	Pretexto	2018	0	0
+20183198	MEC	0	Organização e gestão da manutenção	Pretexto	2018	0	0
+20183199	MEC	0	Organização e gestão da manutenção	Pretexto	2018	0	0
+20183180	MEC	0	Pensamento Lean	Pretexto	2018	0	0
+20183196	MEC	0	Programação CAD/CAM em mastercam	Pretexto	2018	0	0
+20183197	MEC	0	Traçagem e cálculo aplicado na indústria metalomecânica	Pretexto	2018	0	0
